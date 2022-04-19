@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+.editInput ,
+.todo {
+  min-width: 177px;
+  display: inline-block;
+}
+.button {
+  margin-left: 5px;
+}
